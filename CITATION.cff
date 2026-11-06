@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you cite this work, please cite it as below."
+type: report
+title: "The Sovereignty of Time: A Declaration on Distribution after AI, with Five Essays"
+authors:
+  - name: "Titan"
+    affiliation: "Independent"
+version: "v1.1"
+date-released: "2026-11-06"
+license: CC-BY-ND-4.0
+languages:
+  - zh
+  - en
+keywords:
+  - time sovereignty
+  - distribution
+  - artificial intelligence
+  - attention economy
+  - capture-allocation separation

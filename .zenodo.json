@@ -1,0 +1,30 @@
+{
+  "title": "The Sovereignty of Time: A Declaration on Distribution after AI, with Five Essays (时间主权宣言 · 完整版)",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "Time is the only non-renewable resource, and sovereignty over time is the foundation of every other sovereignty. This work argues that three systems have learned, in succession, to transfer time without consent: fiat money dilutes savings, which are the condensed form of time already spent; recommendation algorithms fragment and auction present attention; and artificial intelligence, by copying cognition at near-zero marginal cost, removes an individual's pricing power over future labor. All three operate as defaults—staying in requires no action, leaving requires one—which is what distinguishes theft from robbery or fraud. The work reframes the problem as one of distribution rather than production: once machines supply labor-time, the ten-thousand-year link between time contributed and share received breaks, and ledgers that record only \"who did the work\" and \"who holds how much\" have no entry for \"who exists.\" It states a design constraint—the mechanism that captures value must not also be the mechanism that allocates it—and examines, from a third-party standpoint, a three-layer protocol (proof of existence in time, a market for attention and creativity, and an AI production tax) tested on several chains since 2023, presenting it as one verifiable but non-exclusive solution and inviting alternatives measured by the same four criteria. Currency substitutes (Bitcoin, stablecoins, memecoins) are shown to leave the problem untouched because they change the unit of account without changing what the ledger records. Five essays expand the declaration: the three thefts; distribution; the protocol; the three thermodynamic gradients (body, attention, tribe) from which time is produced; and permanent archives and digital inheritance as the endgame of time sovereignty. Published bilingually (Chinese and English) with canonical-text hashes and a Bitcoin-anchored timestamp (OpenTimestamps), under CC BY-ND 4.0.",
+  "creators": [
+    {
+      "name": "Titan",
+      "affiliation": "Independent"
+    }
+  ],
+  "license": "cc-by-nd-4.0",
+  "version": "v1.1",
+  "publication_date": "2026-11-06",
+  "language": "eng",
+  "keywords": [
+    "time sovereignty",
+    "distribution",
+    "artificial intelligence",
+    "attention economy",
+    "inflation",
+    "proof of existence",
+    "AI production tax",
+    "capture-allocation separation",
+    "dissipative structures",
+    "digital inheritance",
+    "时间主权"
+  ],
+  "notes": "Bilingual (Chinese and English). Canonical texts are the twelve UTF-8 Markdown files in canonical/; their SHA-256 hashes are listed in SHA256SUMS and on the PDF colophon. v1.1 corrects the protocol's start year (2023) and duration (nearly four years); see CHANGELOG.md."
+}
