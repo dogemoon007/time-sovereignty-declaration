@@ -1,0 +1,1 @@
+# time-sovereignty-declaration
